@@ -1,0 +1,23 @@
+//cf. http://masao.in/
+
+{
+	"options":{
+		"title": "正男のタイトル",	//必須
+		"subtitle": "サブタイトル",	//ユーザ定義
+	},
+	"params":{
+		
+	},
+	("masao":{	//もともとはparams要素の属性にあたるもの
+		"code":"MasaoJSS.class",
+		"id":"Applet1",
+		"version":"Version3.1",
+	}),
+	("scripts":[
+		{"type":"text/javascript",
+		 ("src":"http://..."),
+		 "content":"function masao(){ ... }",
+		},...
+	]),
+	
+}

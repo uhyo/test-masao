@@ -1,0 +1,6 @@
+{
+	"options":{
+		"title":"速いサンプルステージ1"
+	},
+	"params":{"game_speed":30}
+}
